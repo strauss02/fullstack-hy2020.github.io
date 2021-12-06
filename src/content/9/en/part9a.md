@@ -62,7 +62,7 @@ TypeScript is a structurally-typed language. In structural typing, two elements 
 
 #### Type inference
 
-The TypeScript compiler can attempt to infer the type information if no type has been specified. Variables' type can be inferred based on its assigned value and its usage. The type inference take place when initializing variables and members, setting parameter default values, and determining function return types.
+The TypeScript compiler can attempt to infer the type information if no type has been specified. Variables' type can be inferred based on its assigned value and its usage. The type inference takes place when initializing variables and members, setting parameter default values, and determining function return types.
 
 For example, consider the function <i>add</i>:
 
